@@ -558,31 +558,6 @@ car.engine.start()
 -   Data security using encapsulation
     
 
-----------
-
-## Procedural vs OOP
-
-Procedural
-
-OOP
-
-Function-based
-
-Object-based
-
-Less secure
-
-More secure
-
-Hard to scale
-
-Easier to scale
-
-No data hiding
-
-Supports encapsulation
-
-----------
 
 ## Summary
 
