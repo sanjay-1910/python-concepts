@@ -383,33 +383,12 @@ print(f"Hello, {name}")
 
 ```
 
-----------
 
-## 9. Encoding and Decoding
 
-### encode()
-
-Converts a string into bytes.
-
-```python
-text = "hello"
-encoded = text.encode("utf-8")
-print(encoded)
-
-```
-
-### decode()
-
-Converts bytes back into a string.
-
-```python
-print(encoded.decode("utf-8"))
-
-```
 
 ----------
 
-## 10. Useful Additional Methods
+## 9. Useful Additional Methods
 
 ### len()
 
