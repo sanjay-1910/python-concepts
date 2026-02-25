@@ -1,9 +1,3 @@
-Perfect 👍 I’ll keep **everything exactly the same** and just fix the `RENAME TABLE` part by moving it under **ALTER** (PostgreSQL correct syntax).
-
-You can copy-paste this directly 👇
-
----
-
 # Basic DDL and DML Commands in SQL
 
 ## Introduction
@@ -291,6 +285,3 @@ Removes all rows one by one.
 
 ---
 
-Now it is **100% correct for PostgreSQL** and cleanly structured.
-
-If you want, I can next format this into a **proper technical paper version** so you can submit or add it to your GitHub 🚀
